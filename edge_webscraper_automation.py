@@ -82,7 +82,7 @@ class PortalLoginAndScraper:
 
 if __name__ == "__main__":
     # WebDriver path and portal details
-    webdriver_path = r'C:\Users\AkshayGodhe\Downloads\edgedriver_win64\msedgedriver.exe'
+    webdriver_path = # Path to your webdriver where it is stored after extraction
     portal_url = 'https://utl/login'  # Replace with your portal URL
     username = 'email'  # Replace with your username
     password = 'password'  # Replace with your password
